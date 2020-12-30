@@ -36,7 +36,7 @@ public class Calculator {
             case '-': resenje = num1 - num2;
         }
         
-        System.out.println("Resenje je: " + num1 + operator + num2 + "" + "=" + "" + resenje);
+        System.out.println("Resenje jeeeee: " + num1 + operator + num2 + "" + "=" + "" + resenje);
     }
     
 }
